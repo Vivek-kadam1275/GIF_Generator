@@ -1,3 +1,5 @@
+To view the website: (https://vivek-kadam1275.github.io/GIF_Generator/
+).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
